@@ -1,0 +1,22 @@
+title: "ALGO 6007 - Data Structures & Algorithms"
+description: "Data Structures & Algorithms"
+
+url: "https://github.com/eugkenny/ALGO6007" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ALGO6007" # the subpath of your site, e.g. /blog
+
+githublink: "https://github.com/eugkenny/ALGO6007"
+githubdir: "eugkenny"
+
+# Author/user information
+email: eugkenny.lit@gmail.com
+# twitter_username: tweet_tweet
+github_username: eugkenny
+authorurl: "https://eugkenny.github.io"
+address:
+
+# Build settings
+markdown: kramdown
+
+permalink: pretty
+
+include: ['assets']
