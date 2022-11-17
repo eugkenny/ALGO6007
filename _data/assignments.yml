@@ -1,7 +1,7 @@
 - title: "Programming Assignment 1 - Infix & Postfix"
   filename: Programming Assignment 1 - Infix & Postfix.pdf
   dirname: assignments
-  tldr: "Percolation Systems, Union-Find"
+  tldr: "Infix to Postfix conversion & Postfix evaluation"
 
 #- title: "Programming Assignment 1 - Starter Code"
 #  filename: Percolation.zip
